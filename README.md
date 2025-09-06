@@ -7,7 +7,7 @@ Downloader sederhana untuk video TikTok:
 
 ## 🚀 Cara Jalankan di Localhost
 ```bash
-git clone https://github.com/USERNAME/tiktok-downloader.git
+git clone https://github.com/RASYASPEEDNET/tiktok-downloader
 cd tiktok-downloader
 php -S 0.0.0.0:8080 -t .
 ```
